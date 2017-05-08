@@ -203,6 +203,7 @@ $ node --inspect node_modules/ava/profile.js some/test/file.js
 
 - [Chrome DevTools](docs/recipes/debugging-with-chrome-devtools.md)
 - [WebStorm](docs/recipes/debugging-with-webstorm.md)
+- [Visual Studio Code](docs/recipes/debugging-with-vscode.md)
 
 
 ## Reporters
@@ -1162,6 +1163,7 @@ It's the [Andromeda galaxy](https://simple.wikipedia.org/wiki/Andromeda_galaxy).
 - [Debugging tests with Chrome DevTools](docs/recipes/debugging-with-chrome-devtools.md)
 - [Debugging tests with WebStorm](docs/recipes/debugging-with-webstorm.md)
 - [Precompiling source files with webpack](docs/recipes/precompiling-with-webpack.md)
+- [Isolated MongoDB integration tests](docs/recipes/isolated-mongodb-integration-tests.md)
 
 ## Support
 
